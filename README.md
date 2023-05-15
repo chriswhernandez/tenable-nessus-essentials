@@ -15,16 +15,17 @@ In this tutorial, I use Tenable's Nessus vulnerability scanner to observe result
 - Command Line for using commands like perpetual ping
 
 <h2>Creating the Windows Virtual Machnine using WMware Workstation Player 17<h2/>                                                             
+Install VMware Workstation Player 17
 
-Step 1. - 
-
+Step 1. Go to VMware website, go to products, and 
+select Workstation Player
 <p>
 <img src="https://i.imgur.com/7zEePso.png"/?
 </p>
 <br />
 <br />
 
-2. 
+2. Select "Download Free"
 
 <p>
 <img src="https://i.imgur.com/2CQn642.png"/?
@@ -32,7 +33,7 @@ Step 1. -
 <br />
 <br />
 
-3. 
+3. Select version, then "Download Now"
 
 <p>
 <img src="https://i.imgur.com/kys9bcy.png"/?
@@ -40,7 +41,7 @@ Step 1. -
 <br />
 <br />
 
-4.
+4.Select "Add WMware Workstation console tools..." then "Next"
 
 <p>
 <img src="https://i.imgur.com/bUNgoaQ.png"/?
@@ -48,7 +49,7 @@ Step 1. -
 <br />
 <br />
 
-Step 5.
+Step 5. Search for Windows 10 ISO file form Microsoft & download
 
 <p>
 <img src="https://i.imgur.com/nYqiSse.png"/?
@@ -56,15 +57,15 @@ Step 5.
 <br />
 <br />  
   
-6. 
+6. Execute file when it finishes downloading, select "create        installation", and hit "next"
 <p>
 <img src="https://i.imgur.com/b6tGXwE.png"/?
 </p>
 <br />
-<br />                                                            
+<br />                                                           
                                                             
-7a.
-<p>
+7a. Select "ISO file" and hit "Next"
+<p> 
 <img src="https://i.imgur.com/2qqNgXd.png"/?
 </p>
 <br />
