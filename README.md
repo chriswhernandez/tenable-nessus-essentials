@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://i.imgur.com/NZy2lm2.png"/>  
+</p>
+                                                                 
 <h1>Tenable Nessus Essentials (May 2023)</h1>
 In this tutorial, I use Tenable's Nessus vulnerability scanner to observe results from basic scans and credentialed scans on a Windows Virtual Machine.
 <br />
@@ -5,6 +9,7 @@ In this tutorial, I use Tenable's Nessus vulnerability scanner to observe result
 
 <h2>Environments, Operating Systems and Technologies Used</h2>
 - Tenable Nessus Essentials
+
 - Windows 10 
 - VMware Workstation Player 17
 - Command Line for using commands like perpetual ping
