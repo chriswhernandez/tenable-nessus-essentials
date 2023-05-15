@@ -64,3 +64,73 @@ Step 5.
 </p>
 <br />
 <br />
+
+7b.
+<p>
+<img src="https://i.imgur.com/qWZR808.png"/?
+</p>
+<br />
+<br />
+
+7c.
+<p>
+<img src="https://i.imgur.com/Mocs50t.png"/?
+</p>
+<br />
+<br />
+
+7d.
+<p>
+<img src="https://i.imgur.com/yrI5RrA.png"/?
+</p>
+<br />
+<br />
+  
+8a.
+<p>
+<img src="https://i.imgur.com/jhIhBOh.png"/?
+</p>
+<br />
+<br />
+ 
+8b.
+<p>
+<img src="https://i.imgur.com/k48Koq0.png"/?
+</p>
+<br />
+<br />
+
+8c.
+<p>
+<img src="https://i.imgur.com/ee5vB9k.png"/?
+</p>
+<br />
+<br />  
+
+Step 9a.
+<p>
+<img src="https://i.imgur.com/C19b7ta.png"/?
+</p>
+<br />
+<br />
+  
+9b.
+<p>
+<img src="https://i.imgur.com/WjLh2tX.png"/?
+</p>
+<br />
+<br />  
+  
+9c. 
+<p>
+<img src="https://i.imgur.com/OfZlz9H.png"/?
+</p>
+<br />
+<br />
+ 
+9d.
+<p>
+<img src="https://i.imgur.com/GqWTi68.png"/?
+</p>
+<br />
+<br />
