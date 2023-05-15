@@ -211,3 +211,24 @@ Step 12a.
 </p>
 <br />
 <br />  
+
+Step 13a.
+<p>
+<img src="https://i.imgur.com/wHyc98Q.png"/?
+</p>
+<br />
+<br />   
+  
+13b.
+<p>
+<img src="https://i.imgur.com/HyfaFFM.png"/?
+</p>
+<br />
+<br />
+
+13c.
+<p>
+<img src="https://i.imgur.com/scIgT8v.png"/?
+</p>
+<br />
+<br />  
