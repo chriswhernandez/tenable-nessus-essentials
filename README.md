@@ -134,3 +134,80 @@ Step 9a.
 </p>
 <br />
 <br />
+
+10a.
+<p>
+<img src="https://i.imgur.com/52dP1BZ.png"/?
+</p>
+<br />
+<br />
+  
+10b.
+<p>
+<img src="https://i.imgur.com/cui2HMT.png"/?
+</p>
+<br />
+<br />
+
+11a.
+<p>
+<img src="https://i.imgur.com/UOPeds8.png"/?
+</p>
+<br />
+<br />
+  
+11b.
+<p>
+<img src="https://i.imgur.com/EUMV5u3.png"/?
+</p>
+<br />
+<br />
+  
+11c.
+<p>
+<img src="https://i.imgur.com/YM4ZBos.png"/?
+</p>
+<br />
+<br /> 
+ 
+11d.  
+<p>
+<img src="https://i.imgur.com/PKx4DLd.png"/?
+</p>
+<br />
+<br />   
+  
+Step 12a.
+<p>
+<img src="https://i.imgur.com/07dCU36.png"/?
+</p>
+<br />
+<br />
+
+12b.
+<p>
+<img src="https://i.imgur.com/tVh4uSl.png"/?
+</p>
+<br />
+<br />
+  
+12c.
+<p>
+<img src="https://i.imgur.com/cvAcUUK.png"/?
+</p>
+<br />
+<br />  
+  
+12d.  
+<p>
+<img src="https://i.imgur.com/rHlWf6G.png"/?
+</p>
+<br />
+<br />  
+  
+12e.
+<p>
+<img src="https://i.imgur.com/zpFnE3L.png"/?
+</p>
+<br />
+<br />  
