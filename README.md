@@ -184,15 +184,17 @@ New Basic Scan
 </p>
 <br />
 <br />   
-  
-Step 12a.
+
+Credentialed Scan  
+
+Step 12a. Open "services.msc" then go to "remote registry" & enable it by selecting "apply" & "OK"
 <p>
 <img src="https://i.imgur.com/07dCU36.png"/?
 </p>
 <br />
 <br />
 
-12b.
+12b. 
 <p>
 <img src="https://i.imgur.com/tVh4uSl.png"/?
 </p>
