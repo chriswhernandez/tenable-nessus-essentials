@@ -56,8 +56,8 @@ Step 5. Search for Windows 10 ISO file form Microsoft & download
 </p>
 <br />
 <br />  
-  
-6. Execute file when it finishes downloading, select "create        installation", and hit "next"
+
+6. Execute file when it finishes downloading, select "create installation", and hit "next"
 <p>
 <img src="https://i.imgur.com/b6tGXwE.png"/?
 </p>
@@ -71,49 +71,50 @@ Step 5. Search for Windows 10 ISO file form Microsoft & download
 <br />
 <br />
 
-7b.
+7b. Go back into VMware Workstation, select the Windows ISO file, name your Virtual Machine, click "Next"
 <p>
 <img src="https://i.imgur.com/qWZR808.png"/?
 </p>
 <br />
 <br />
 
-7c.
+7c. Select "customize hardware" then select "Bridged" for the network connection. This allows the VM to use your physical network adapter
 <p>
 <img src="https://i.imgur.com/Mocs50t.png"/?
 </p>
 <br />
 <br />
 
-7d.
+7d. Wait for Windows 10 to install
 <p>
 <img src="https://i.imgur.com/yrI5RrA.png"/?
 </p>
 <br />
 <br />
   
-8a.
+Tenable Nessus Download  
+8a. Locate Nessus Essentials unter the product tab of Tenable.com
 <p>
 <img src="https://i.imgur.com/jhIhBOh.png"/?
 </p>
 <br />
 <br />
  
-8b.
+8b. Fill out the registration form & select "download"
 <p>
 <img src="https://i.imgur.com/k48Koq0.png"/?
 </p>
 <br />
 <br />
 
-8c.
+8c. Select "download" again. Latest version as May 2023 is 10.5.1
 <p>
 <img src="https://i.imgur.com/ee5vB9k.png"/?
 </p>
 <br />
 <br />  
 
-Step 9a.
+Step 9a. 
 <p>
 <img src="https://i.imgur.com/C19b7ta.png"/?
 </p>
