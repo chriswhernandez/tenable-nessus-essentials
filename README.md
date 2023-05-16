@@ -142,44 +142,45 @@ Step 9a. Execute the downloaded file and select "Connect via SSL"
 <br />
 <br />
 
-10a.
+10a. Open the Command Line Interface, use "ipconfig/all" command to generate & copy VM's IPv4 address
 <p>
 <img src="https://i.imgur.com/52dP1BZ.png"/?
 </p>
 <br />
 <br />
   
-10b.
+10b. From your host machine open the Command Line & use the IPv4 address to perpetual ping the VM
 <p>
 <img src="https://i.imgur.com/cui2HMT.png"/?
 </p>
 <br />
 <br />
 
-11a.
+New Basic Scan  
+11a. After installing Nessus, select "Basic Network Scan"
 <p>
 <img src="https://i.imgur.com/UOPeds8.png"/?
 </p>
 <br />
 <br />
   
-11b.
+11b. Name your scan, input the VM's IPv4 address as a target, & save your scan
 <p>
 <img src="https://i.imgur.com/EUMV5u3.png"/?
 </p>
 <br />
 <br />
   
-11c.
+11c. Launch your scan & wait for it to complete
 <p>
 <img src="https://i.imgur.com/YM4ZBos.png"/?
 </p>
 <br />
 <br /> 
  
-11d.  
+11d. Once complete, you can select the "vulnerabilities" tab & observe them
 <p>
-<img src="https://i.imgur.com/PKx4DLd.png"/?
+<img src="https://i.imgur.com/VwHdaXH.png"/?
 </p>
 <br />
 <br />   
