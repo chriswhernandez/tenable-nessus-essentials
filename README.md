@@ -113,29 +113,29 @@ Tenable Nessus Download
 </p>
 <br />
 <br />  
-
-Step 9a. 
+  
+Step 9a. Execute the downloaded file and select "Connect via SSL"
 <p>
 <img src="https://i.imgur.com/C19b7ta.png"/?
 </p>
 <br />
 <br />
   
-9b.
+9b. Select "proceed to localhost (unsafe)"
 <p>
 <img src="https://i.imgur.com/WjLh2tX.png"/?
 </p>
 <br />
 <br />  
   
-9c. 
+9c. Insert the unique activation code you were sent to your email when you registered
 <p>
 <img src="https://i.imgur.com/OfZlz9H.png"/?
 </p>
 <br />
 <br />
  
-9d.
+9d. Wait for Nessus to finish installing & initializing
 <p>
 <img src="https://i.imgur.com/GqWTi68.png"/?
 </p>
