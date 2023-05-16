@@ -222,21 +222,21 @@ Step 12a. Open "services.msc" then go to "remote registry" & enable it by select
 <br />
 <br />  
 
-Step 13a.
+Step 13a. Go back into Nessus choose your initial basic scan, click "More" then "Configure"
 <p>
 <img src="https://i.imgur.com/wHyc98Q.png"/?
 </p>
 <br />
 <br />   
   
-13b.
+13b. Select "Credentials" tab, input the Windows VM's username & password, then hit "Save"
 <p>
 <img src="https://i.imgur.com/HyfaFFM.png"/?
 </p>
 <br />
 <br />
 
-13c.
+13c. Rerun the scan. When it finishes observe the new vulnerabilites
 <p>
 <img src="https://i.imgur.com/scIgT8v.png"/?
 </p>
