@@ -194,28 +194,28 @@ Step 12a. Open "services.msc" then go to "remote registry" & enable it by select
 <br />
 <br />
 
-12b. 
+12b. Open "User Account Control Settings", lower to "never notify", & select "OK." This will make it easier to run the credentialed scan
 <p>
 <img src="https://i.imgur.com/tVh4uSl.png"/?
 </p>
 <br />
 <br />
   
-12c.
+12c. Via Windows search bar bring up "Registry Editor." Then select "Local Machine", "Software", & Microsoft" folders in that order
 <p>
 <img src="https://i.imgur.com/cvAcUUK.png"/?
 </p>
 <br />
 <br />  
   
-12d.  
+12d. After the last step, open "Windows" folder then open "Current Version." Now open "Policies" & then "System" folder. You can now right click and make a new "DWORD: file & name it "localaccounttokenfilterpolicy"
 <p>
 <img src="https://i.imgur.com/rHlWf6G.png"/?
 </p>
 <br />
 <br />  
   
-12e.
+12e. Right click on the new file, set value data to "1', click "OK", and restart your VM entirely
 <p>
 <img src="https://i.imgur.com/zpFnE3L.png"/?
 </p>
