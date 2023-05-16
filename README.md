@@ -242,3 +242,8 @@ Step 13a. Go back into Nessus choose your initial basic scan, click "More" then 
 </p>
 <br />
 <br />  
+
+<h1>Conclusion</h1>
+A basic is a very surface level scan that can indeed find vulnerabilities. However, credentialed scan allow for deeper dives & tend to find more vulnerabilities. This gives us a way to then try and remediate said vulnerabilities. To artificially generate & observe more vulnerabilites, you can install a old, deprecated version of software like Firefox for example. The older the version, we can assume more critical vulnerabilites would be found. You can then immediately remedy this by updating the deprecated version to the latest as it will have many fixes implemented.
+
+<h1>Thanks for checking this project out!</h1>
